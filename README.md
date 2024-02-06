@@ -8,3 +8,8 @@ Here, I use the Fashion and Handwritten-digits MNIST datasets to train the DCGAN
 
 ### Results
 
+- Generated samples for Fashion MNIST as the training progresses,
+![](https://github.com/tusharparimi/mnist-GANs/blob/main/fashion_dcgan.gif)
+
+- Generated samples for handwritten digits MNIST as the training progresses,
+![](https://github.com/tusharparimi/mnist-GANs/blob/main/digits_dcgan.gif)
